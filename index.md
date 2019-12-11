@@ -1,6 +1,7 @@
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+  <h1>Hello World</h1>
+    <p>I'm hosted with GitHub Pages.</p>
+  <h2>Pages</h2>  
 </body>
 </html>
