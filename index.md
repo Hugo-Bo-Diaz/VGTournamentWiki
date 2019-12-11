@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <html>
 <body>
   <h1>Can you manage this event?</h1>
