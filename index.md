@@ -1,8 +1,11 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<head>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 <html>
 <body>
   <h1>Can you manage this event?</h1>
-    <p>Game description</p>
+    <p>Game description edited</p>
   <h2>Gameplay</h2>
     <p>Video here</p>
   <h1>Insctructions</h1>
