@@ -1,10 +1,10 @@
 <html>
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="{{"/favicon.ico" | prepend: site.baseurl }}">
 </head>
 <body>
   <h1>Can you manage this event?</h1>
-    <p>Game description edited3</p>
+    <p>Game description edited4</p>
   <h2>Gameplay</h2>
     <p>Video here</p>
   <h1>Insctructions</h1>
