@@ -4,14 +4,20 @@
 </head>
 <body>
   <h1>Can you manage this event?</h1>
-    <p>Game description edited32</p>
-  <h2>Gameplay</h2>
-    <p>Video here</p>
-  <h1>Insctructions</h1>
-    <p>Instructions</p>
-  <h1>The project</h1>
-    <p>Explain the context of this</p>
-  <h2>The AI</h2>
-    <p>Show AI in depth</p>
+    <p>
+	The success of the event is in your hands! Do you think you can make this event memorable to as much people as possible?
+	</p>
+    <p>
+	There's been a lack of good managing in the business, you can be the new blood that this kind of events need to be run smoothly!
+	</p>
+	<p>
+	Manage the most important event to date!
+	</p>
+	<ul>
+		<li>Buy more consoles for more matches</li>
+		<li>Contract more Organizers to help</li>
+		<li>Watch all the clients unique names and statistics</li>
+	</ul>
+	<img src="ParticipantFSM.PNG" alt="Main image for the game">
 </body>
 </html>
