@@ -12,9 +12,7 @@
 	There's been a lack of good managing in the business, you can be the new blood that this kind of events need to be run smoothly!
 	</p>
 	<img src="ParticipantFSM.PNG" alt="Main image for the game">
-	<p>
-	Manage the most important event to date!
-	</p>
+   <h2>Manage the most important event to date!</h2>
 	<ul>
 		<li>Buy more consoles for more matches</li>
 		<li>Contract more Organizers to help</li>
