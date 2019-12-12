@@ -211,8 +211,9 @@ header {
     font-weight: bold;
     display:inline-block;
     text-align:center;
-	right:50%;
-	position:fixed;
+	left:50%;
+	right:500px;
+	position:relative;
     float:left;
 
     &:hover {
