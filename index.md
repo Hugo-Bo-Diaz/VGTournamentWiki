@@ -4,7 +4,7 @@
 </head>
 <body>
   <h1>Can you manage this event?</h1>
-    <p>Game description edited15</p>
+    <p>Game description edited16</p>
   <h2>Gameplay</h2>
     <p>Video here</p>
   <h1>Insctructions</h1>
