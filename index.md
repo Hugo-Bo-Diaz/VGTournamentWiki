@@ -3,7 +3,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="{{"/favicon.ico" | prepend: site.baseurl }}">
 </head>
 <body>
-  <h1>Can you manage this event?</h1>
+  <h2>Can you manage this event?</h2>
   	<img src="ParticipantFSM.PNG" alt="Banner-ish image">
     <p>
 	The success of the event is in your hands! Do you think you can make this event memorable to as much people as possible?
