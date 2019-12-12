@@ -213,7 +213,7 @@ header {
     text-align:center;
 	left:200px;
 	right:200px;
-    display: block;
+	position:relative;
 
     &:hover {
       background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
