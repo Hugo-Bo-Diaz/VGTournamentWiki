@@ -1,7 +1,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zQWTpzhywpc"></iframe>
 <h2>The Objective</h2>
 <p>
-Explain that you need to survive 4 days to win and that no money = lose
+The main objective of the game is to manage the tournament for 4 days without running out of money, you can get money from participants and the main costs are the salaries for the Organizers and Technicians
 </p>
 <h2>Employees</h2>
 <p>
@@ -23,5 +23,5 @@ The most important people in the event are these guys, they have the money you n
 The more you have the higher tier your tournament will be, from C all the way to the coveted SS tier, when the tournament reaches maximum capacity
 </p>
 <p>
-Make sure that your participants are happy or they may leave!, they'll be happier the more they win and the more they drink from the vending machines. If a setup breaks while they are playing, if there is not enough space on the trash or even if they lose too much they will be angrier everytime, until they leave.
+Make sure that your participants are happy or they may leave!, they'll be happier the more they win and the more they drink from the vending machines. If a setup breaks while they are playing, if there is not enough space on the trash or even if they lose too much they will get angrier and they may even leave.
 </p>
