@@ -52,10 +52,18 @@
 	<h3>Technicians</h3>
 		<h4>Behaviour Trees:</h4>
 			<p>
-			Contrary to the Organizers and Participants the Technicians are simple enough to be able to work on a BT, here is the main BT that he uses:
+			Contrary to the Organizers and Participants the Technicians are simple enough to be able to work on a couple of BT, here is the main BT that he uses:
 			</p>
-			<img src="images/FSM-BT/TechnicianBT.PNG" alt="Technician BT">
+			<img src="images/FSM-BT/TechnicianMainBT.PNG" alt="Technician Main BT">
 			<p>
-			He'll wander until he has a task assigned, then he will do it, after which the BT will restart and set him to wait again for a task
+			He'll wander until he has a task assigned or he goes to check the trash
+			</p>
+			<img src="images/FSM-BT/TechnicianTaskBT.PNG" alt="Technician Do Task BT">
+			<p>
+			This will make him go to the task object and do the appropiate task
+			</p>
+			<img src="images/FSM-BT/TechnicianTrashBT.PNG" alt="Technician Trash BT">
+			<p>
+			This will make him go to the trash, pick it up, then go to the container to throw it before going home
 			</p>
 </html>
