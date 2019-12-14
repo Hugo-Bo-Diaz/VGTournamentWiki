@@ -1,5 +1,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zQWTpzhywpc"></iframe>
-<h2>The Objective</h2>
+<h2><u>The Objective</u></h2>
 <p>
 The main objective of the game is to manage the tournament for 4 days without running out of money, you can get money from participants and the main costs are the salaries for the Organizers and Technicians
 </p>
@@ -11,11 +11,7 @@ For this event to be succesful you're going to need the right amount of staff, t
 		<li>Technicians: Whenever you need to install something or repairs they will come out of the room to make sure that it gets done as soon as possible</li>
 	</ul>
 </p>
-<h2>Machinery(part of technician?)</h2>
-<p>
-explain trash, setups and vending machines
-</p>
-<h2>Participants</h2>
+<h2><u>Participants</u></h2>
 <p>
 The most important people in the event are these guys, they have the money you need to keep the event running and you have to make them spend it!
 </p>
