@@ -15,7 +15,7 @@
 	<p>
 	The Behaviour Trees (BTs) were done with NodeCanvas and they are the following
 	</p>
-	<h3>Participants:</h3>
+	<h3><u>Participants:</u></h3>
 		<h4>FSM:</h4>
 			<img src="images/FSM-BT/ParticipantFSM.PNG" alt="Participant FSM" style="margin-bottom:10px; margin-top:10px; border-style:solid; border-width:2px">
 			<p>
@@ -37,19 +37,29 @@
 				<p>
 				This will make him wander around and sometimes grab a drink.
 				</p>
-	<h3>Organizers:</h3>
+	<h3><u>Organizers:</u></h3>
 		<h4>FSM:</h4>
 			<img src="images/FSM-BT/TOFSM.PNG" alt="Organizer FSM" style="margin-bottom:10px; margin-top:10px; border-style:solid; border-width:2px">
 			<p>
 			This will just make him wander until he has to call a match.
 			</p>
 		<h4>Behaviour trees:</h4>
+			<p><b>Wander BT:</b></p>
+				<img src="images/FSM-BT/TOWanderBT.PNG" alt="Organizer call match BT" style="margin-bottom:10px; margin-top:10px; border-style:solid; border-width:2px">
+				<p>
+				This BT will make him altern randomly between wandering and checking if there is a match that can be called on the PC if there is he will stop the BT after checking the PC
+				</p>
 			<p><b>Call players to match BT:</b></p>
 				<img src="images/FSM-BT/TOCallPlayerBT.PNG" alt="Organizer call match BT" style="margin-bottom:10px; margin-top:10px; border-style:solid; border-width:2px">
 				<p>
 				This BT will take the TO to the different players he was assigned, calling them 1 by 1 and telling them the setup they are supposed to play in, after that he will go to his homeplace to wander on his area
 				</p>
-	<h3>Technicians</h3>
+			<p><b>Set match result BT:</b></p>
+				<img src="images/FSM-BT/TOSetResultBT.PNG" alt="Organizer call match BT" style="margin-bottom:10px; margin-top:10px; border-style:solid; border-width:2px">
+				<p>
+				This BT will make him go to the PC and set the result
+				</p>
+	<h3><u>Technicians</u></h3>
 		<h4>Behaviour Trees:</h4>
 			<p>
 			Contrary to the Organizers and Participants the Technicians are simple enough to be able to work on a couple of BT, here is the main BT that he uses:

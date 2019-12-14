@@ -11,7 +11,7 @@ For this event to be succesful you're going to need the right amount of staff, t
 		<li>Technicians: Whenever you need to install something or repairs they will come out of the room to make sure that it gets done as soon as possible</li>
 	</ul>
 </p>
-<h2><u>Participants</u></h2>
+<h2>Participants</h2>
 <p>
 The most important people in the event are these guys, they have the money you need to keep the event running and you have to make them spend it!
 </p>
