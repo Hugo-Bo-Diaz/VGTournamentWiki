@@ -18,8 +18,7 @@
 		<li>Contract more Organizers to help</li>
 		<li>Watch all the clients unique names and statistics</li>
 	</ul>
-  <h2><u>Download</u></h2>
-	<a href= "https://www.citm.upc.edu/">
+	<a href= "https://www.dropbox.com/s/buzynq2sb6nr8us/VGTournament.zip?dl=0">
 		<img src="images/Download.PNG" alt="Download page on DropBox" style="margin-bottom:25px; margin-top:25px">
 	</a>
 </body>
